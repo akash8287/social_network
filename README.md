@@ -22,8 +22,8 @@ This is a Django Rest Framework-based API for a social networking application.
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository_link>
-    cd <repository_directory>
+    git clone git@github.com:akash8287/social_network.git
+    cd social_network
     ```
 
 2. **Build and run the Docker containers:**
